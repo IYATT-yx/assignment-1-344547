@@ -1,0 +1,17 @@
+id : IDS60804 
+name : Kalgoorlie-Boulder Airport 
+state : WA 
+time_zone : WST 
+lat : -30.8 
+lon : 121.5 
+local_date_time : 15/02:00pm 
+local_date_time_full : 20230715060000 
+air_temp : 20.3 
+apparent_t : 19.4 
+cloud : Partly cloudy 
+dewpt : 10.3 
+press : 1017.2 
+rel_hum : 51 
+wind_dir : ENE 
+wind_spd_kmh : 13 
+wind_spd_kt : 7

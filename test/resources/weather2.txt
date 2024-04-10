@@ -1,0 +1,17 @@
+id : IDS60801
+name : Albany
+state : WA
+time_zone : WST
+lat : -35.0
+lon : 117.9
+local_date_time : 15/02:00pm
+local_date_time_full : 20230715060000
+air_temp : 16.8
+apparent_t : 14.8
+cloud : Cloudy
+dewpt : 13.1
+press : 1017.4
+rel_hum : 80
+wind_dir : WSW
+wind_spd_kmh : 17
+wind_spd_kt : 9

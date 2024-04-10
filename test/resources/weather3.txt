@@ -1,0 +1,17 @@
+id : IDS60803
+name : Esperance
+state : WA
+time_zone : WST
+lat : -33.8
+lon : 121.9
+local_date_time : 15/02:00pm
+local_date_time_full : 20230715060000
+air_temp : 17.5
+apparent_t : 14.6
+cloud : Partly cloudy
+dewpt : 12.5
+press : 1017.6
+rel_hum : 73
+wind_dir : WNW
+wind_spd_kmh : 24
+wind_spd_kt: 13
